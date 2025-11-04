@@ -16,7 +16,7 @@ env/
 venv/
 
 # 📂 Model files
-model/*.pkl
+#model/*.pkl
 
 # 🗃️ OS files
 .DS_Store
